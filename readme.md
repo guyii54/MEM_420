@@ -10,3 +10,7 @@ Like describing in the title, generating a big picture from lots of small pictur
 - small_res: resolution of small pictures
 - source_res: resolution of big picture, None for no change on it
 - thresh: fixed parameter, no need to change
+
+
+## Example
+![example](soure1_N_30_clean.jpg)
